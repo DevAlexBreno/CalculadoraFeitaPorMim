@@ -6,6 +6,8 @@ Utilizei semântica HTML para trazer um codigo HTML facil de entender. Procurei 
 JAVASCRIPT ainda estou aprendendo mas utilizando o DOM funções operadores aritmeticos e condições consegui fazer um bom trabalho, estou muito feliz :D
 
 
+![image](https://user-images.githubusercontent.com/105872871/182882874-7be6c731-0517-407e-941c-ee2bab954eae.png)
+
 // HTML
 
 
