@@ -4,9 +4,7 @@ Calculadora feita apenas com meus conhecimentos em logica de programação adqui
 
 Utilizei semântica HTML para trazer um codigo HTML facil de entender. Procurei usar um pouco de Flex no CSS um pouco do que aprendi sobre PADDING E MARGIN.
 JAVASCRIPT ainda estou aprendendo mas utilizando o DOM funções operadores aritmeticos e condições consegui fazer um bom trabalho, estou muito feliz :D
-
-
-<!-- HTML --> 
+// HTML
 
 
 
