@@ -7,14 +7,30 @@ JAVASCRIPT ainda estou aprendendo mas utilizando o DOM funções operadores arit
 
 
 <!-- HTML --> 
+
+
+
 ![image](https://user-images.githubusercontent.com/105872871/182879607-342ddddc-4759-4e7e-9fd3-8d611b519264.png)
 ![image](https://user-images.githubusercontent.com/105872871/182879722-40c78d8c-d1d3-4903-bf33-0f32f42e7343.png)
 
 
 
+
+
+
+
 /* CSS */
+
+
+
+
 ![image](https://user-images.githubusercontent.com/105872871/182879951-5ad8b591-945d-4cf4-b716-843e5d2fce94.png)
 ![image](https://user-images.githubusercontent.com/105872871/182880013-fced1915-472e-4ee9-bd45-c25e753ada8f.png)
+
+
+
+
+
 
 // JAVASCRIPT
 ![image](https://user-images.githubusercontent.com/105872871/182880200-2218e764-4e10-4900-8494-41ad3c410b02.png)
