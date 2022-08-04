@@ -1,0 +1,2 @@
+# CalculadoraFeitaPorMim
+Calculadora feita apenas com meus conhecimentos em logica de programação adquiridos até o momento e com estudos feitos em JavaScript, não vi videos relacionados a calculadoras para fazer a minha, apenas me desafiei a tentar fazer uma calculadora com meus conhecimentos. ainda não tem muitas validações, mas estou muito feliz de ter conseguido fazer a conta sem fazer concatenação :D
